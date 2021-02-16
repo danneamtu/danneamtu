@@ -16,16 +16,11 @@ I am also instructor at <a href="https://www.digitalskills.ro/cursuri/web-design
 - 💻 I'm currently working on [joblify.me](https://joblify.me);
 - 🎸 Some times I like to play on guitar
  
-<br />
-
 ### Articles
-
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
 
-<br />
-
 #### ⚡ Technologies
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I work with:<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
