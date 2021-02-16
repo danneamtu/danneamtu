@@ -6,7 +6,6 @@
   <img align="left" alt="Upsier" width="22px" src="https://www.upsier.com/images/favicon.ico" />
 </a>-->
 <br />
-
 Hi, I'm [Dan Neamtu](<a href="https://www.danneamtu.com"  target="_blank">www.danneamtu.com</a>), and my mission is to create web projects. Some of them are nice and usefull. The way I do this is by using the latest web technologies. I love GraphQL, React, Node and MongoDB.
 
 I am also instructor at <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a> helping people to learn the first steps in web design. 
