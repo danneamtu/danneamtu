@@ -1,4 +1,4 @@
-### Hi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dan!
 <!--<a href="https://www.digitalskills.ro" target="_blank">
   <img align="left" alt="Digital Skills" width="22px" src="https://www.digitalskills.ro/images/favicon.png" />
 </a>
