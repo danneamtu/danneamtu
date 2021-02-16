@@ -9,12 +9,12 @@ Hi, my name is Dan Neamtu, and I'm a independent Front End Developer at (<a href
 
 For 2021 my dream is to create the place where you can easy find your <b>front end developer job</b> dream @ <a href="https://www.joblify.me">joblify.me</a>
 In 2019 was born my second project <a href="https://www.upsier.com">www.upsier.com</a>, where you can buy Bootstrap 4 templates.
-In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a>, a code school where people can learn the first steps in web design. The main ideea is to integrate teaching school with digital agency.
+In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a>, a code school where people can learn the first steps in web design.
 
 
 - 💻  Currently working on [joblify.me](https://joblify.me);
 - 🌐  I help people around the world
-- 👉  Want to create something amazing? contact me and let's start
+- 👉  Want to create something amazing? contact me
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
