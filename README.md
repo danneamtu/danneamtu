@@ -17,7 +17,9 @@ I am also instructor at <a href="https://www.digitalskills.ro/cursuri/web-design
 - 🎸 Some times I like to play on guitar
  
 <br />
-<br />
+
 ### Articles
 
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
+
+<br />
