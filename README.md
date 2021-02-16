@@ -5,7 +5,7 @@
 <a href="https://www.upsier.com"  target="_blank">
   <img align="left" alt="Upsier" width="22px" src="https://www.upsier.com/images/favicon.ico" />
 </a>-->
-Hi, I'm Dan Neamtu, front end developer at (<a href="https://www.danneamtu.com"  target="_blank">www.danneamtu.com</a>), with a mission to create web projects. Some of them are nice and usefull. The way I do this is by using the latest web technologies. I love GraphQL, React, Node and MongoDB.
+Hi, I'm Dan Neamtu, front end developer at (<a href="https://www.danneamtu.com"  target="_blank">www.danneamtu.com</a>), with a mission to create web projects. And some of them are nice and usefull. The way I do this is by using the latest web technologies. I love GraphQL, React, Node and MongoDB.
 
 I am also instructor at <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a> helping people to learn the first steps in web design. 
 
