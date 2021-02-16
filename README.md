@@ -1,10 +1,10 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.digitalskills.ro" target="_blank">
+<!--<a href="https://www.digitalskills.ro" target="_blank">
   <img align="left" alt="Digital Skills" width="22px" src="https://www.digitalskills.ro/images/favicon.png" />
 </a>
 <a href="https://www.upsier.com"  target="_blank">
   <img align="left" alt="Upsier" width="22px" src="https://www.upsier.com/images/favicon.ico" />
-</a>
+</a>-->
 
 <br />
 
