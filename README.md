@@ -14,7 +14,7 @@ In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.
 
 - 💻  Currently working on [joblify.me](https://joblify.me);
 - 🌐  I help people around the world
-- 👉  Want to create something amazing? contact me
+- 👉  Want to create something amazing? <a href="mailto:contact@danneamtu.com">contact me</a>
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
