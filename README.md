@@ -11,8 +11,6 @@ Hi, my name is Dan Neamtu, and I'm a independent Front End Developer at (<a href
 For 2021 my dream is to create the place where you can easy find your <b>front end developer job</b> dream @ <a href="https://www.joblify.me">joblify.me</a>
 In 2019 was born my second project <a href="https://www.upsier.com">www.upsier.com</a>, where you can buy Bootstrap 4 templates.
 In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a>, a code school where people can learn the first steps in web design.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7AloiS2TEDY" float="left" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 - 💻  Currently working on [joblify.me](https://joblify.me);
 - 🌐  I help people around the world
