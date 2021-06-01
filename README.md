@@ -16,9 +16,12 @@ Front End Developer in a mission to create new, useful projects that can change 
   <img align="left" alt="Joblify" width="420px" src="https://joblify.be/screenshot_small.png" />
 </a>
 
+
 ### Joblify project
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble 
- 
+<a href="https://www.joblify.be"  target="_blank">
+  <img align="left" alt="Joblify" height="1px;" width="1420px" src="https://joblify.be/screenshot_small.png" />
+</a> 
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
