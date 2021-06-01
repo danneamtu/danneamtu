@@ -13,8 +13,8 @@ Other projects:
 In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a>, a code school where people can learn the first steps in web design.
 
 - 💻  Coding @  [joblify.be](https://joblify.be);
-- 🌐  Searching for new ideas 
-- 👉  Contact <a href="mailto:contact@danneamtu.com">contact@danneamtu.com</a>
+- 🌐  Instructor @ [www.digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design);
+- 👉  Personal page <a href="mailto:contact@danneamtu.com">www.danneamtu.com</a>
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
