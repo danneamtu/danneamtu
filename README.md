@@ -14,7 +14,7 @@ In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.
 
 - 💻  Coding @  [joblify.be](https://joblify.be);
 - 🌐  Instructor @ [www.digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design);
-- 👉  Personal page <a href="mailto:contact@danneamtu.com">www.danneamtu.com</a>
+- 👉  Personal page  [www.danneamtu.com](https://www.danneamtu.com);
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
@@ -25,7 +25,6 @@ These are some of the technologies and tools that I work with:<br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=flat-square&logo=Node.js&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
