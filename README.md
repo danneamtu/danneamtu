@@ -34,7 +34,7 @@ Front End Developer in a mission to create new, useful projects that can change 
 ### Joblify project
 Joblify help you to match your technical skills with Front End Developer job requirements. I started the project in may 2021, both server and client. Technologies used in this project: React, Redux, Node.js, Fuse.js, MongoDB and Puppeteer. 
 
-👉   Client code @ [View Client Code](https://github.com/danneamtu/joblify/tree/main/client)  
-👉   Server code @ [View Server Code](https://github.com/danneamtu/joblify/tree/main/server)   
-👉   Live website @ [joblify.be](https://joblify.be/screenshot_small)   
+👉    Client code @ [View Client Code](https://github.com/danneamtu/joblify/tree/main/client)  
+👉    Server code @ [View Server Code](https://github.com/danneamtu/joblify/tree/main/server)   
+👉    Live website @ [www.joblify.be](https://joblify.be/screenshot_small)   
 
