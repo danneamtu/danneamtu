@@ -6,7 +6,7 @@
   <img align="left" alt="Upsier" width="22px" src="https://www.upsier.com/images/favicon.ico" />
 </a>-->
  
-Hello, World! my name is Dan Neamtu, I'm a Front End Developer in a mission to create new projects that can change the world. The way I do this is by using the latest web technologies like React, Node.js or MongoDB. With a passion for education and development in 2016 I created DIGITAL SKILLS, a coding school in Bucharest where people can learn HTML, CSS, PHP, WordPress and other, acreditated by Labor and Education Ministry.
+I'm a Front End Developer in a mission to create new projects that can change the world. The way I do this is by using the latest web technologies like React, Redux, Node.js or MongoDB. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and job aggregator. With a passion for education and development in 2016 I created DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest where people can start to learn from HTMl to SEO.
 
 Check  my new 2021  <b>front end developer job</b> aggregator, match your technical skills with job description to easy find your dream job <a href="https://www.joblify.be">joblify.be</a>. It use React, Node.js, MongoDB, Puppetter and other nice things. 
 Other projects:
