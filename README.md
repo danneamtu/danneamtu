@@ -32,8 +32,8 @@ Front End Developer in a mission to create new, useful projects that can change 
 </a>
 
 ### Joblify project
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble 
-
- 
-
+Joblify help you to match your technical skills with Front End Developer job requirements. Technologies: React, Redux, Node.js, MongoDB and Puppeteer. 
+- 👉   Client code @ [View Client Code](https://github.com/danneamtu/joblify/tree/main/client)  
+- 👉   Server code @ [View Server Code](https://github.com/danneamtu/joblify/tree/main/server)   
+- 👉   Live website @ [joblify.be](https://joblify.be/screenshot_small)   
 
