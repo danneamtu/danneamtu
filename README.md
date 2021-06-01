@@ -13,7 +13,7 @@ Front End Developer in a mission to create new, useful projects that can change 
  
 
 <a href="https://www.joblify.be"  target="_blank">
-  <img align="left" alt="Joblify" width="100%" src="https://joblify.be/screenshot_small.png" />
+  <img align="left" alt="Joblify" width="50%" src="https://joblify.be/screenshot_small.png" />
 </a>
 
 ### Joblify project
