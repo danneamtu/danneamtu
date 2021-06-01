@@ -10,22 +10,9 @@ Front End Developer in a mission to create new, useful projects that can change 
 - 💻   Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppetter, MongoDB }
 - 🌐   Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
 - 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
- 
-
-<a href="https://www.joblify.be"  target="_blank">
-  <img align="left" alt="Joblify" width="50%" src="https://joblify.be/screenshot_small.png" />
-</a>
-
-### Joblify project
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble 
-
- 
----
 
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
-
-
 
 #### ⚡ Technologies
 These are some of the technologies and tools that I work with:<br>
@@ -38,4 +25,16 @@ These are some of the technologies and tools that I work with:<br>
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)-->
+<!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)--> 
+ ---
+
+<a href="https://www.joblify.be"  target="_blank">
+  <img align="left" alt="Joblify" width="50%" src="https://joblify.be/screenshot_small.png" />
+</a>
+
+### Joblify project
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble 
+
+ 
+
+
