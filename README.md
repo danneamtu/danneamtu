@@ -24,6 +24,7 @@ Front End Developer in a mission to create new, useful projects that can change 
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![WordPress](https://img.shields.io/badge/-WordPress-%23117AC9?style=flat-square&logo=mongodb)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)--> 
  ---
 
