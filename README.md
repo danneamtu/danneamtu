@@ -11,7 +11,7 @@ Front End Developer in a mission to create new, useful projects that can change 
 - 🌐   Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
 - 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
 
-#### Articles
+#### ✍️ Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
 
 #### ⚡ Technologies I use <br>
