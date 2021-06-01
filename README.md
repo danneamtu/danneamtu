@@ -28,7 +28,3 @@ These are some of the technologies and tools that I work with:<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)-->
 ---
-
-### code source
-<a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Server source</a>
-<a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Client source</a>
