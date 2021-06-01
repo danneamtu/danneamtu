@@ -13,7 +13,9 @@ Front End Developer in a mission to create new, useful projects that can change 
  
 ### Joblify project:
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble.
- 
+<a href="https://www.joblify.be"  target="_blank">
+  <img align="left" alt="Joblify" width="420px" src="https://camo.githubusercontent.com/bc09364a3b4abc56b9bd007139437874f69036ef9f1f057f5d6fb9c1dae2321c/68747470733a2f2f6a6f626c6966792e62652f73637265656e73686f742e706e67" />
+</a>--> 
  
  
  
