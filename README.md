@@ -28,7 +28,7 @@ Front End Developer in a mission to create new, useful projects that can change 
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)--> 
  ---
 
-<a href="https://www.joblify.be"  target="_blank">
+<a href="https://www.joblify.be" target="_blank">
   <img align="left" alt="Joblify" width="50%" src="https://joblify.be/screenshot_small.png" />
 </a>
 
