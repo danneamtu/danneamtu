@@ -7,6 +7,15 @@
 </a>-->
  
 Front End Developer in a mission to create new, useful projects that can change the world. The way I do this is by using the latest web technologies like React, Redux, Node.js or MongoDB. With a passion for passion for entrepreneurship, education and development in 2016 I created DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest that teach people from HTML to WordPress and SEO. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and aggregators. 
+<table>
+  <tr>
+    <td><a href="https://www.joblify.be"  target="_blank">
+  <img align="left" alt="Upsier" width="22px" src="https://joblify.be/screenshot_small.png" />
+</a></td>
+    <td></td>
+  </tr>
+</table>
+
 
 - 💻   Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppetter, MongoDB }
 - 🌐   Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
