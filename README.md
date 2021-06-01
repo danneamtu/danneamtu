@@ -7,14 +7,14 @@
 </a>-->
  
 Front End Developer in a mission to create new, useful projects that can change the world. The way I do this is by using the best new technologies like React, Redux, Node.js or MongoDB. With a passion for education and web development I created in 2016 DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest where people can learn from HTML to WordPress and SEO. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and aggregators.
-- 💻   Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppetter, MongoDB }
-- 🌐   Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
-- 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
+- 💻 &nbsp;  Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppetter, MongoDB }
+- 🌐 &nbsp;  Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
+- 👉  &nbsp; Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
 
-#### ✍️ Articles
+#### ✍️ &nbsp; Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
 
-#### ⚡ Technologies <br>
+#### ⚡  &nbsp; Technologies <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
