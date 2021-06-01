@@ -8,9 +8,9 @@
  
 Front End Developer in a mission to create new, usefull projects that can change the world. The way I do this is by using the latest web technologies like React, Redux, Node.js or MongoDB. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and aggregators. With a passion for education and development in 2016 I created DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest where people can start to learn from basic HTML to WordPress and SEO.
 
-- 💻   Coding now @  [joblify.be](https://joblify.be) [React, Redux, Puppetter, MongoDB]
-- 🌐   Instructor @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) [HTMl, CSS, WordPress, SEO]
-- 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) {Bootstrap Templates}
+- 💻   Coding now @  [joblify.be](https://joblify.be) { Techonlogies:  React, Redux, Puppetter, MongoDB }
+- 🌐   Instructor @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTMl, CSS, WordPress, SEO }
+- 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
