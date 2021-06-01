@@ -12,9 +12,9 @@ Check  my new 2021  <b>front end developer job</b> aggregator, match your techni
 Other projects:
 In 2016 I created <a href="https://www.digitalskills.ro/cursuri/web-design">www.digitalskills.ro</a>, a code school where people can learn the first steps in web design.
 
-- 💻  Coding @  [joblify.be](https://joblify.be);
-- 🌐  Instructor @ [www.digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design);
-- 👉  Personal page  [www.danneamtu.com](https://www.danneamtu.com);
+- 💻  Coding now @  [joblify.be](https://joblify.be);
+- 🌐  Instructor @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design);
+- 👉  Personal page @ [danneamtu.com](https://www.danneamtu.com);
  
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
