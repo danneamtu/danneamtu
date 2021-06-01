@@ -26,6 +26,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <img align="left" alt="Joblify"  width="1220px" height="1px" src="https://joblify.be/screenshot_small.png" />
 </a>
  
+---
+
 ### Articles
 <a target="_blank" href="https://dev.to/upsier/node-js-error-connect-econnrefused-how-to-connect-with-phpmyadmin-2ekb">Node.js Error: connect ECONNREFUSED - how to connect Node with phpMyAdmin</a>
 
@@ -43,4 +45,3 @@ These are some of the technologies and tools that I work with:<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)-->
----
