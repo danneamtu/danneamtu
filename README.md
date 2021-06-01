@@ -6,7 +6,7 @@
   <img align="left" alt="Upsier" width="22px" src="https://www.upsier.com/images/favicon.ico" />
 </a>-->
  
-Front End Developer in a mission to create new, useful projects that can change the world. The way I do this is by using the best new technologies like React, Redux, Node.js or MongoDB. With a passion for education and development I created in 2016 DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest where people can leanr from HTML to WordPress and SEO. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and aggregators.
+Front End Developer in a mission to create new, useful projects that can change the world. The way I do this is by using the best new technologies like React, Redux, Node.js or MongoDB. With a passion for education and web development I created in 2016 DIGITAL SKILLS, a coding school acreditated by Labor and Education Ministry in Bucharest where people can learn from HTML to WordPress and SEO. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes and aggregators.
 - 💻   Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppetter, MongoDB }
 - 🌐   Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
 - 👉   Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
