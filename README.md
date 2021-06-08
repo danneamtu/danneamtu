@@ -8,7 +8,7 @@
  
 Front End Developer in a mission to create new, useful projects that can change the world. The way I do this is by using the best new technologies like React, Redux, Node.js or MongoDB. Started 10 years ago as independent web designer, my portfolio includes bespoke websites, Bootstrap templates, WordPress themes, dashboards and aggregators.
 - 💻 &nbsp;  Coding now @  [joblify.be](https://joblify.be) { React, Redux, Puppeteer, MongoDB }
-- 🌐 &nbsp;  Instructor and founder @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
+- 🌐 &nbsp;  Instructor and frontend developer @ [digitalskills.ro](https://www.digitalskills.ro/cursuri/web-design) { HTML, CSS, Bootstrap, WordPress, SEO }
 - 👉  &nbsp; Personal page @ [danneamtu.com](https://www.danneamtu.com) { Bootstrap Templates }
 
 #### ✍️ &nbsp; Articles
