@@ -33,7 +33,7 @@ Front End Developer in a mission to create new, useful projects that can change 
 </a>
 
 ### Joblify project showcase
-Joblify match your technical skills with Front End Developer jobs. I started this project in april 2021, both server and client, using: React, Redux, Node.js, MongoDB and Puppeteer. If you are interested to see the code or the live website, click on the links bellow:
+Joblify match your technical skills with Front End Developer jobs. I started this project in april 2021, both server and client, using: React, Redux, Node.js, MongoDB and Puppeteer. Interested to see the code or the live website? .then() click on the links bellow:
 
 😻  &nbsp;  Client code @ [view client code](https://github.com/danneamtu/joblify/tree/main/client)  
 🥳   &nbsp;    Server code @ [view server code](https://github.com/danneamtu/joblify/tree/main/server)   
